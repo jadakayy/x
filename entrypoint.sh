@@ -1,6 +1,7 @@
 #!/bin/sh
 
 UUID="1279bf2d-497a-4d49-9a62-2b3a6e93e694"
+PORT=8080
 # config xray
 cat << EOF > /etc/config.json
 {
